@@ -1,1 +1,1 @@
-My first readme
+intro to git
